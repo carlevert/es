@@ -11,7 +11,7 @@ spec:
     solvers:
     - http01:
         ingress:
-          ingressClassName: nginx
+          ingressClassName: traefik
       selector:
         dnsZones:
-          - lb-0a5ec8c931234ca3b6e7b493c33038d6-1.upcloudlb.com
+          - ce-k.se
