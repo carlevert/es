@@ -6,3 +6,6 @@ terraform/kubeconfig.yaml
 
 *.iml
 .idea
+
+manifests/image-pull-secret/key.json
+manifests/image-pull-secret/image-pull-secret.yaml
