@@ -1,0 +1,8 @@
+manifests/**/charts/
+
+terraform/state
+terraform/.terraform
+terraform/kubeconfig.yaml
+
+*.iml
+.idea
